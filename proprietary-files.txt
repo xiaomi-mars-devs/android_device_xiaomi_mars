@@ -274,7 +274,6 @@ vendor/lib64/libmiface.so
 vendor/lib64/libminziparchive.so
 vendor/lib64/libmiphone_capture_bokeh.so
 vendor/lib64/libmiphone_preview_bokeh.so
-vendor/lib64/libmiracast.so
 vendor/lib64/libmiriskmanager.so
 vendor/lib64/libmisecurity.so
 vendor/lib64/libmisight.so
