@@ -313,7 +313,6 @@ vendor/lib64/libvidhance.so
 vendor/lib64/libwa_opticalzoom_fusion.so
 vendor/lib64/libwa_opticalzoomfactor.so
 vendor/lib64/libwa_sat.so
-vendor/lib64/libwapi_cert.so
 vendor/lib64/libxmi_hdr_SR.so
 vendor/lib64/libxmi_hdr_bokeh.so
 vendor/lib64/libxmi_hdr_checker.so
